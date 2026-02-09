@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/psjt/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/rajanani6767/psjt/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/rajanani6767/psjt/tree/master/1314-matrix-block-sum) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/psjt/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
