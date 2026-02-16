@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajanani6767/psjt/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/rajanani6767/psjt/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/rajanani6767/psjt/tree/master/1408-string-matching-in-an-array) |
 | [2418-sort-the-people](https://github.com/rajanani6767/psjt/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanani6767/psjt/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rajanani6767/psjt/tree/master/0008-string-to-integer-atoi) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/rajanani6767/psjt/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/psjt/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/rajanani6767/psjt/tree/master/2418-sort-the-people) |
 ## Matrix
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanani6767/psjt/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/rajanani6767/psjt/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
