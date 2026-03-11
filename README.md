@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/rajanani6767/psjt/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/rajanani6767/psjt/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/rajanani6767/psjt/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/psjt/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/rajanani6767/psjt/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/rajanani6767/psjt/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/rajanani6767/psjt/tree/master/1408-string-matching-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rajanani6767/psjt/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
