@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajanani6767/psjt/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rajanani6767/psjt/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajanani6767/psjt/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajanani6767/psjt/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rajanani6767/psjt/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/rajanani6767/psjt/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/rajanani6767/psjt/tree/master/1472-design-browser-history) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajanani6767/psjt/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rajanani6767/psjt/tree/master/0232-implement-queue-using-stacks) |
 | [1472-design-browser-history](https://github.com/rajanani6767/psjt/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
