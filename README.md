@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajanani6767/psjt/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/rajanani6767/psjt/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rajanani6767/psjt/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/rajanani6767/psjt/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanani6767/psjt/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/rajanani6767/psjt/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajanani6767/psjt/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/rajanani6767/psjt/tree/master/1396-design-underground-system) |
