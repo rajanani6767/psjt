@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajanani6767/psjt/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanani6767/psjt/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/rajanani6767/psjt/tree/master/0867-transpose-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajanani6767/psjt/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/rajanani6767/psjt/tree/master/1002-find-common-characters) |
@@ -160,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanani6767/psjt/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
+## Depth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
