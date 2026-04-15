@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajanani6767/psjt/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajanani6767/psjt/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rajanani6767/psjt/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanani6767/psjt/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanani6767/psjt/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/rajanani6767/psjt/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajanani6767/psjt/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajanani6767/psjt/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajanani6767/psjt/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/rajanani6767/psjt/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajanani6767/psjt/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rajanani6767/psjt/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rajanani6767/psjt/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -145,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanani6767/psjt/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
