@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajanani6767/psjt/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/rajanani6767/psjt/tree/master/0451-sort-characters-by-frequency) |
 | [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajanani6767/psjt/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajanani6767/psjt/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rajanani6767/psjt/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/rajanani6767/psjt/tree/master/0451-sort-characters-by-frequency) |
 | [2418-sort-the-people](https://github.com/rajanani6767/psjt/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajanani6767/psjt/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/rajanani6767/psjt/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajanani6767/psjt/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/rajanani6767/psjt/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/rajanani6767/psjt/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/rajanani6767/psjt/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rajanani6767/psjt/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/rajanani6767/psjt/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/psjt/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
@@ -174,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/rajanani6767/psjt/tree/master/0690-employee-importance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rajanani6767/psjt/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rajanani6767/psjt/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
