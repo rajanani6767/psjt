@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rajanani6767/psjt/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajanani6767/psjt/tree/master/0918-maximum-sum-circular-subarray) |
+| [1002-find-common-characters](https://github.com/rajanani6767/psjt/tree/master/1002-find-common-characters) |
 | [1314-matrix-block-sum](https://github.com/rajanani6767/psjt/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/rajanani6767/psjt/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/rajanani6767/psjt/tree/master/1472-design-browser-history) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajanani6767/psjt/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/rajanani6767/psjt/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/rajanani6767/psjt/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/rajanani6767/psjt/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/rajanani6767/psjt/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/rajanani6767/psjt/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/rajanani6767/psjt/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/rajanani6767/psjt/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/rajanani6767/psjt/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/rajanani6767/psjt/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/rajanani6767/psjt/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajanani6767/psjt/tree/master/1704-determine-if-string-halves-are-alike) |
